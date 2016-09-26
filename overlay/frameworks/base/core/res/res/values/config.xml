@@ -53,7 +53,7 @@
     <!-- Default color for notification LED is cyan. -->
     <color name="config_defaultNotificationColor">#ff00ffff</color>
 
-    <integer name="config_deviceHardwareKeys">64</integer>
+<!--    <integer name="config_deviceHardwareKeys">64</integer>-->
 
     <bool name="config_allowAllRotations">true</bool>
 
