@@ -2,7 +2,7 @@
 PRODUCT_PACKAGES += \
     camera.msm8916 \
     libmm-qcamera \
-    Snap
+    SnapdragonCamera
 
 # Permissions
 PRODUCT_COPY_FILES += \
