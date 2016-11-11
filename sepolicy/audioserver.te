@@ -1,0 +1,1 @@
+allow audioserver mpctl_data_file:dir search;
