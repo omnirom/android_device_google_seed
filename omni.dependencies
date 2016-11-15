@@ -55,5 +55,23 @@
         "repository":   "android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8",
         "target_path":  "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8",
         "revision":     "android-7.0"
-    }    
+    },
+    {
+        "remote":       "omnirom",
+        "repository":   "android_external_ant-wireless_antradio-library",
+        "target_path":  "external/ant-wireless/antradio-library",
+        "revision":     "android-7.0"
+    },
+    {
+        "remote":       "omnirom",
+        "repository":   "android_external_ant-wireless_ant_service",
+        "target_path":  "external/ant-wireless/ant_service",
+        "revision":     "android-7.0"
+    },
+    {
+        "remote":       "omnirom",
+        "repository":   "android_external_ant-wireless_ant_native",
+        "target_path":  "external/ant-wireless/ant_native",
+        "revision":     "android-7.0"
+    }
 ]
