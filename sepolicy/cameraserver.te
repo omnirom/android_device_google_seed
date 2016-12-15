@@ -1,5 +1,5 @@
 allow cameraserver property_socket:sock_file { write };
-
 allow cameraserver init:unix_stream_socket { connectto };
-
 allow cameraserver mpctl_socket:dir { search };
+allow cameraserver rootfs:lnk_file getattr;
+allow cameraserver socket_device:sock_file write;
