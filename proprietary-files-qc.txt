@@ -407,10 +407,8 @@ vendor/lib/librs_adreno_sha1.so
 vendor/lib/libsc-a3xx.so
 
 # Graphics firmware (seed)
-etc/firmware/a300_pfp.fw
-etc/firmware/a300_pm4.fw
--vendor/firmware/a330_pfp.fw
--vendor/firmware/a330_pm4.fw
+etc/firmware/a300_pfp.fw|899dbfad4812084971cfc1ff30f06a4b45c2d34c
+etc/firmware/a300_pm4.fw|94529206b45b6e9f6ed30dadabe4244a88a60975
 
 # Media (crackling)
 lib/libOmxVdecHevc.so|560d662a6120cc23bc0db9af51230ce60d756eda
