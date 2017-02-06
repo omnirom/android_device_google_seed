@@ -23,4 +23,4 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 # Include package config fragments
 include $(LOCAL_PATH)/product/*.mk
 
-$(call inherit-product-if-exists, vendor/google/seed/seed-vendor.mk)
+$(call inherit-product-if-exists, vendor/google/seed/device-vendor.mk)
