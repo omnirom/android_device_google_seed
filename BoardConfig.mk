@@ -21,5 +21,8 @@ include device/google/seed/board/*.mk
 
 TARGET_BOARD_INFO_FILE := device/google/seed/board-info.txt
 
+# FM Radio
+BOARD_HAVE_FM_RADIO := true
+
 # inherit from the proprietary version
 -include vendor/google/seed/BoardConfigVendor.mk
