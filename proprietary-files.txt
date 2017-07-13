@@ -200,45 +200,45 @@ bin/vm_bms
 
 # Qualcomm framework (jalebi)
 bin/irsc_util|787bd12a31ec581ee515ee32b610e56fc2833863
-vendor/lib/libdiag.so|5cae33cc79a68c8916a133de617f4cbecbef98ac
-vendor/lib/libdsi_netctrl.so|29654040a4842df38fad8a8dc896857460667819
-vendor/lib/libdsutils.so|d4bf9e98c65fe8adb36cad85ebf48526137b30be
-vendor/lib/libidl.so|ebbfe34beebb25e6178e3dc0d79152cdd81a93e1
-vendor/lib/libqcci_legacy.so|8e6bfb1b13f055a8fd6df3e313f2806981f8291d
-vendor/lib/libqdi.so|15646b0b33be05f216013a57ce659f12385316cb
-vendor/lib/libqdp.so|da49dfa248e3eccc9273d686caff8063428217e2
-vendor/lib/libqmi_cci.so|eef6bba94332795ac622b1e682122c3517d0a4e1
-vendor/lib/libqmi_client_helper.so|aea48215726c8df37e4ab27a747ef2178bbb5fe6
-vendor/lib/libqmi_client_qmux.so|9f296dd1b6a7f4ebd12773351f6fd37b7a42fb12
-vendor/lib/libqmi_common_so.so|e756f9640d0661446c8bf184d0e24b8c315f6c78
-vendor/lib/libqmi_csi.so|dffd42c56773fbc286945230184448bf24598890
-vendor/lib/libqmi_encdec.so|124cd8ab6ed24f2b315ece15e18a2345815d6901
-vendor/lib/libqmiservices.so|25e8803032ab9c191ffcf45507286abc72460c7d
-vendor/lib/libqmi.so|5251426638ec6ace5e399e9c541f3c846acb9f52
-vendor/lib/libsmemlog.so|b87c633d0faa143db4744bd17de5b03d600df15e
+vendor/lib/libdiag.so
+vendor/lib/libdsi_netctrl.so
+vendor/lib/libdsutils.so
+vendor/lib/libidl.so
+vendor/lib/libqcci_legacy.so
+vendor/lib/libqdi.so
+vendor/lib/libqdp.so
+vendor/lib/libqmi_cci.so
+vendor/lib/libqmi_client_helper.so
+vendor/lib/libqmi_client_qmux.so
+vendor/lib/libqmi_common_so.so
+vendor/lib/libqmi_csi.so
+vendor/lib/libqmi_encdec.so
+vendor/lib/libqmiservices.so
+vendor/lib/libqmi.so
+vendor/lib/libsmemlog.so
 
 # Radio (jalebi)
 -app/shutdownlistener/shutdownlistener.apk|bb1577ef19b491cbd343a15714d9dd7e5e761689
-bin/netmgrd|da382606d916b331a8bd5eae151dbd245ae26063
-bin/qmuxd|6ff5f50f05973c34cc4516e5b4f5ca9c400bf94d
-bin/radish|cd024f6b00374889b2d8c32e56aa615488dfa1e2
-bin/rmt_storage|079e247fbebeb215de4775a842d77b086304f322
+bin/netmgrd
+bin/qmuxd
+bin/radish
+bin/rmt_storage
 etc/permissions/qcnvitems.xml|dc0e70cace2317b5169a454cbc2bbf8887c18d55
 etc/permissions/qcrilhook.xml|9fc58a3d54d20ac1d53bab14608815121aefbce5
 -framework/qcnvitems.jar|c07b1cc603c84414ee1b33749ea492b9d7a9e181
 -framework/qcrilhook.jar|d8cd25a1ca0a49c1a69d856d8846a517725785ec
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|250eeb259f908070ac302ce66832d0c030473015
 vendor/lib/libcneapiclient.so|1cd1a5a4db60d1b2f99a124663eba3b10cbb5c89
-vendor/lib/libconfigdb.so|0baff7fcba0f1a22b8ec1b08f6068579ed527452
+vendor/lib/libconfigdb.so
 vendor/lib/liblqe.so|e4a40f8675c5b52f1bb71aa2fea62d7ffcd9b003
-vendor/lib/libmdmdetect.so|00dcc86d87300acbc10e4916a543717ccfc776db
-vendor/lib/libnetmgr.so|9933916723c598d7c5b6ed3c12cab9ec852a20e8
-vendor/lib/libperipheral_client.so|d5c62a77a1fee7797f5e74cfbfa8854d5f0ea52b
-vendor/lib/libril-qc-qmi-1.so|50b415e0bee72604380115f4450d79a50ffae995
+vendor/lib/libmdmdetect.so
+vendor/lib/libnetmgr.so
+vendor/lib/libperipheral_client.so
+vendor/lib/libril-qc-qmi-1.so
 vendor/lib/libril-qc-radioconfig.so|7fe31633a1a4f5ca291e56456017ff1717907fc2
-vendor/lib/libril-qcril-hook-oem.so|72d922cbe67c1387b501e32547630dbb19fc6e5b
-vendor/lib/libsystem_health_mon.so|808950a838e8f01f0c6efe1ef25acc4ca3376a45
-vendor/lib/libxml.so|8b9cae9b4d1525e7fea093d6a53f363c842f3076
+vendor/lib/libril-qcril-hook-oem.so
+vendor/lib/libsystem_health_mon.so
+vendor/lib/libxml.so
 
 # Signed Venus (media) firmware
 etc/firmware/venus.b00

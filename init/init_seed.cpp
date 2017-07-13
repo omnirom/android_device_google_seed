@@ -87,4 +87,5 @@ void init_target_properties()
     }
 
     property_set("ro.build.description", "seed_l8150-user 7.1.1 N0F27E 4103848 release-keys");
+    property_set("ro.telephony.ril.config", "simactivation");
 }
